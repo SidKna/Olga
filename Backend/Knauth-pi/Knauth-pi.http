@@ -1,0 +1,6 @@
+@Knauth_pi_HostAddress = http://localhost:5075
+
+GET {{Knauth_pi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
